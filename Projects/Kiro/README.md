@@ -1,4 +1,4 @@
-# 🎆NewYearCountdown-Kiro🎆
+# 🎆Kiro — New Year Countdown🎆
 
 A vibrant New Year countdown celebration with dynamic fireworks, sparklers, and synchronized sound effects.
 
