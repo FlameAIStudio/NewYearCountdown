@@ -2,6 +2,7 @@
 
 An interactive, gravity-defying countdown experience designed to celebrate the transition into 2026.  
 This project uses a custom particle system and HTML5 Canvas to create a visually stunning and playful animation.
+![Preview](./Antigravity-Preview.gif)
 
 ## Features
 
