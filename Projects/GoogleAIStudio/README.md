@@ -1,4 +1,4 @@
-#🎆GoogleAIStudio-2026 New Year Countdown🎆
+# **🎆 GoogleAIStudio-2026 New Year Countdown 🎆**
 
 A high-end, cinematic 2026 New Year countdown experience featuring dynamic canvas fireworks, glass-morphism UI, and sophisticated animation sequences.
 
