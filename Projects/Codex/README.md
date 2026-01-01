@@ -3,6 +3,7 @@
 A code-forward New Year countdown demo that prioritizes **readable structure**
 and **deterministic behavior**. The goal is clarity over cleverness: predictable
 timing, straightforward rendering logic, and code that is easy to scan and edit.
+![Preview](./CODEX-Preview.gif)
 
 ---
 
