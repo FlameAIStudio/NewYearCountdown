@@ -48,3 +48,32 @@ Example (Python):
 python3 -m http.server
 
 Then open the address shown in your terminal.
+
+
+## 🧠 Design Notes
+
+- Pure front-end implementation (HTML / CSS / JavaScript)
+- No build steps or configuration
+- Designed for easy remixing and reuse
+- Focused on short-lived, high-impact ritual moments
+
+These projects are intended to be:
+
+- Forked
+- Modified
+- Reinterpreted for other events or celebrations
+
+---
+
+## 👤 About the Author
+
+Created by **Flame (FlameAIStudio)**  
+Independent product developer & traditional culture enthusiast.
+
+I build web products, visual experiments, and open-source projects,
+exploring how modern technology can reinterpret traditional structures
+and ritual experiences.
+
+- GitHub: https://github.com/FlameAIStudio
+- Website: https://www.flameai.net/
+
