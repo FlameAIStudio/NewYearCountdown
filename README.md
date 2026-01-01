@@ -17,21 +17,25 @@ No build tools, frameworks, or dependencies required.
 ### Kiro
 Minimal, clean countdown focused on clarity, rhythm, and smooth transitions.  
 `Projects/Kiro/`
+
 ![Preview](./Projects/Kiro/Kiro-Preview.gif)
 
 ### Codex
 Code-first implementation with clear structure and deterministic behavior.  
 `Projects/Codex/`
+
 ![Preview](./Projects/Codex/CODEX-Preview.gif)
 
 ### Antigravity
 Experimental visuals exploring motion, particles, and atmosphere.  
 `Projects/Antigravity/`
+
 ![Preview](./Projects/Antigravity/Antigravity-Preview.gif)
 
 ### Google AI Studio
 Expressive animation-driven countdown refined with Google AI Studio.  
 `Projects/GoogleAIStudio/`
+
 ![Preview](./Projects/GoogleAIStudio/GoogleAIStudio-Preview.gif)
 
 Each project can be opened directly via its own `index.html`.
