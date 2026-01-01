@@ -1,37 +1,37 @@
 # 🎆Codex - New Year Countdown🎆
 
-A code-forward countdown demo emphasizing **readable structure and deterministic behavior**.
-
-This version is intended to be the easiest to understand and modify: clear modules/functions,
-predictable timing, and straightforward rendering logic.
+A code-forward New Year countdown demo that prioritizes **readable structure**
+and **deterministic behavior**. The goal is clarity over cleverness: predictable
+timing, straightforward rendering logic, and code that is easy to scan and edit.
 
 ---
 
-## Preview
+## Features
 
-![Codex Preview](./assets/preview.gif)
+- Deterministic countdown updates
+- Clear separation of structure, behavior, and visuals
+- Minimal dependencies and fast load time
 
 ---
 
 ## How to Run
 
-1. Open `index.html` directly
-2. If needed, run a local server:
-
-### Local server (optional)
-- Python:
-  - `python3 -m http.server 5173`
-- Then open:
-  - `http://localhost:5173/`
+Open `index.html` directly, or serve the folder with any static host.
 
 ---
 
-## Structure (Suggested)
+## Project Layout
 
-If you want to keep the codebase tidy, a common split is:
-- `script.js` - timing + state machine
-- `render.js` - visual rendering
-- `audio.js` - sound triggers (optional)
+- `index.html` - markup and layout
+- `main.js` - countdown logic
+- `style.css` - visuals and animations
+
+---
+
+## Notes
+
+- If you deploy, ensure the hosting platform serves static files as-is.
+- The countdown target is defined in `main.js`.
 
 ---
 
