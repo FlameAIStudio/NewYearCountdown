@@ -2,6 +2,7 @@
 
 A vibrant New Year countdown celebration with dynamic fireworks, sparklers, and synchronized sound effects.
 
+![Preview](./Kiro-Preview.gif)
 ---
 
 ## ✨ Features
