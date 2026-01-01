@@ -88,6 +88,7 @@ and ritual experiences.
 
 - GitHub: https://github.com/FlameAIStudio
 - Website: https://www.flameai.net/
+- X: https://x.com/FlameAILab
 
 ## 📄 License
 
