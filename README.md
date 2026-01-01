@@ -63,6 +63,10 @@ These projects are intended to be:
 - Modified
 - Reinterpreted for other events or celebrations
 
+Some advanced projects may include optional build steps or tooling.
+See each project README for details.
+
+
 ---
 
 ## 👤 About the Author
