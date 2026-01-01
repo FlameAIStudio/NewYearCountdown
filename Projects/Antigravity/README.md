@@ -1,4 +1,4 @@
-# **🎆 Antigravity — New Year Countdown 2026 🎆**
+# **🎆 Antigravity Gemini3 Flash — New Year Countdown 2026 🎆**
 
 An interactive, gravity-defying countdown experience designed to celebrate the transition into 2026.  
 This project uses a custom particle system and HTML5 Canvas to create a visually stunning and playful animation.
